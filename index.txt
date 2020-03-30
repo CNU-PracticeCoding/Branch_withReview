@@ -4,6 +4,7 @@
 
 장수진
 1. 1변경 1커밋
+2. merge - no change, rebase - change
 
 
 한유경
