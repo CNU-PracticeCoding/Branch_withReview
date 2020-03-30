@@ -5,6 +5,7 @@
 장수진
 1. 1변경 1커밋
 2. merge - no change, rebase - change
+3. pr is pull request
 
 
 한유경
